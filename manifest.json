@@ -19,8 +19,10 @@
   ],
   "holidays": [
     {
+      "year": 2026,
+      "version": 1,
+      "path": "holidays/2026.json",
       "sha256": "4576efb028a3a500233f8e32c1d4df92d7e27ab697048105f3c9e104a72f1b37",
-"bytes": 1777
+      "bytes": 1777
     }
   ]
-}
