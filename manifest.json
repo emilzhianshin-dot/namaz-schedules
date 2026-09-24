@@ -16,6 +16,14 @@
       "sha256": "e21599e1613dad56de91a5e535221103860fda873f5b55612a3ce532dcd06167",
       "bytes": 58602
     }
+  ],
+  "holidays": [
+    {
+      "year": 2026,
+      "version": 1,
+      "path": "holidays/2026.json",
+      "sha256": "50ffb47c65c86724923f38882aee2fefdc85449fef39c2778e8762211320e88b",
+      "bytes": 1751
+    }
   ]
 }
-
